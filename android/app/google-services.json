@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "818590629112",
+    "project_id": "beezbug-448dc",
+    "storage_bucket": "beezbug-448dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818590629112:android:fd3d83bd78a323743c0f0d",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818590629112-qglum5cjbhguofn79e8jvded31fgvbfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQPRDDaKlDhWA_i24OJ1g9LhqeT3b9o0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818590629112-qglum5cjbhguofn79e8jvded31fgvbfe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "818590629112-uoo2h5cjttr94j0fsoosau3kmk5ep6hn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
